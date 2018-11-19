@@ -30,28 +30,28 @@ h1 {
     /* margin-bottom: 20px; */
     line-height: 75px;
     padding: 10px;
-    position: fixed;
-    top: -14px;
+    position: relative;
+    top: -31px;
     
 }
 
 #Contact {
     float: right;
     margin: 10px;
-    padding-top: 50px;
+    padding-top: 15px;
 
 }
 
 #Portfolio {
     float: right;
     margin: 10px;
-    padding-top: 50px;
+    padding-top: 15px;
 }
 
 #About {
     float: right;
     margin: 10px;
-    padding-top: 50px;
+    padding-top: 15px;
 }
 
 /* .clearfix::after {
