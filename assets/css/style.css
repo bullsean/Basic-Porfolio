@@ -94,7 +94,7 @@ footer {
     text-align: center;
     font-size: 10px;
     flex-shrink: 0;
-    margin: -10px;
+    margin: -11px;
 
 }
 
@@ -118,6 +118,7 @@ footer {
 
 #project1 {
     float: left;
+    margin-left: -25px;
 }
 
 #project2 {
@@ -126,6 +127,8 @@ footer {
 
 #project3 {
     float: left;
+    margin-left: -25px;
+
 }
 
 #project4 {
@@ -133,4 +136,5 @@ footer {
 }
 
 #project5 {
+    margin-left: -25px;
 }
