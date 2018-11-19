@@ -94,8 +94,43 @@ footer {
     text-align: center;
     font-size: 10px;
     flex-shrink: 0;
+    margin: -10px;
 
 }
 
+.placeholder {
+    height: 200px;
+    width: 300px;
+    margin: 25px;
+}
 
+.prjTitles {
+    background: #4aaaa5;
+    color: #ffffff;
+    width: 300px;
+    text-align: center;
+    margin: 25px;
+    position: relative;
+    top: -100px;
+    padding: 3px;
+    
+}
 
+#project1 {
+    float: left;
+}
+
+#project2 {
+    float: left;
+}
+
+#project3 {
+    float: left;
+}
+
+#project4 {
+    float: left;
+}
+
+#project5 {
+}
