@@ -73,11 +73,14 @@ body {
     background: #ffffff;
     padding: 15px;
     
+    
 
 }
 
 #aboutMe {
-    padding: 5px 0px;
+    padding: 20px 0px;
+    border-bottom: 3px solid #cccccc;
+    margin: 0px 0px 20px 0px
 }
 
 #profPic {
