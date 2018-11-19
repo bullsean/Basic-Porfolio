@@ -6,7 +6,7 @@ header {
     height: 100px;
     background:#ffffff;
     padding: 10px;
-    border-color: #cccccc;
+    border-bottom: 3px solid #cccccc;
     
     
 }
@@ -30,6 +30,8 @@ h1 {
     /* margin-bottom: 20px; */
     line-height: 75px;
     padding: 10px;
+    position: fixed;
+    top: -14px;
     
 }
 
@@ -84,6 +86,10 @@ body {
 
 footer {
     background: #666666;
+    border-top: 8px solid #4aaaa5;
+    text-align: center;
+    font-size: 10px;
+    flex-shrink: 0;
 
 }
 
