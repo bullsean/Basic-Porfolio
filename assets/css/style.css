@@ -21,8 +21,6 @@ h1 {
             
 }
 
-
-
 .fullname {
     background: #4aaaa5;
     text-align: center;
@@ -88,15 +86,7 @@ body {
     float: left;
 }
 
-footer {
-    background: #666666;
-    border-top: 8px solid #4aaaa5;
-    text-align: center;
-    font-size: 10px;
-    flex-shrink: 0;
-    margin: -11px;
 
-}
 
 .placeholder {
     height: 200px;
@@ -137,4 +127,13 @@ footer {
 
 #project5 {
     margin-left: -25px;
+}
+
+footer {
+    background: #666666;
+    border-top: 8px solid #4aaaa5;
+    text-align: center;
+    font-size: 10px;
+    flex-shrink: 0;
+    margin: -11px;
 }
